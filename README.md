@@ -1,5 +1,5 @@
 # Discord Bot 
-A chat bot for OSDC-Discord Server, built on top of discord.js.
+A chat bot for Discord Server, built on top of discord.js.
 
 ## Setting up the bot
 
